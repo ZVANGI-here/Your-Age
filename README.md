@@ -19,6 +19,7 @@ pkg upgrade
 
 
 pkg install python3
+pkg install git
 
 
 pip install V7xStyle
@@ -44,6 +45,15 @@ pip install V7xStyle
 -------------------------------------------------------------
                                                      HAVE FUN
 -------------------------------------------------------------
+
+to use is so easy just write :
+
+cd Your-Age
+ls
+python3 Your-Age
+
+All systems :(pc-phone)
+-------------
 
                                                                @zvangi
 
