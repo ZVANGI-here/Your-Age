@@ -1,5 +1,5 @@
 # Your-Age
-With This script you can get your age and how mush time left for your birthday . . .
+With This script you can get your age and how much time left for your birthday . . .
 
 This is my first script is just like testing for my skils
 [ msg for me in future ] :
