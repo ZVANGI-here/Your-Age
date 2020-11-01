@@ -1,12 +1,12 @@
 # Your-Age
 With This script you can get your age and how much time left for your birthday . . .
 
-This is my first script is just like testing for my skils
+This is my first script is just like testing for my skills
 [ msg for me in future ] :
 -------------------------
 Do not laugh at what you made so go past, but rejoice at what you have become
 
-
+((= [01/11/2020] bruh stfu this simple and bad script idk how i made it lol =))
 [lets back to script]
 ----------------------
 
